@@ -1,5 +1,4 @@
-<html>
-
+<!DOCTYPE html>
 <head> 
 	<title> PROYECTO TIC </title>
 <style>
